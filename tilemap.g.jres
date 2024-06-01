@@ -1,0 +1,30 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level3": {
+        "id": "level3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA3MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAyMDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA2MDIwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDYwMjA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNjAzMDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath5"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
